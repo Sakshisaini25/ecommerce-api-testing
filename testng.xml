@@ -1,0 +1,8 @@
+<suite name="Ecommerce API Suite">
+  <test name="User and Product APIs">
+    <classes>
+      <class name="ecommerce.UserTests"/>
+      <class name="ecommerce.ProductTests"/>
+    </classes>
+  </test>
+</suite>
