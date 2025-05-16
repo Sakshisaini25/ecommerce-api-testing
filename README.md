@@ -15,4 +15,4 @@ Automated REST API tests for user and product endpoints of the FakeStore API usi
 3. View results in console or integrate with CI tool
 
 ## Author
-Your Name
+Sakshi saini
